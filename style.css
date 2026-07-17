@@ -1,0 +1,146 @@
+/* ── reset ── */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+/* ── base ── */
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #222;
+  background: #fff;
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 60px 24px 80px;
+}
+
+/* ── header ── */
+header {
+  margin-bottom: 48px;
+}
+
+header h1 {
+  font-size: 20px;
+  font-weight: normal;
+  letter-spacing: 0;
+  margin-bottom: 10px;
+}
+
+nav {
+  font-family: Georgia, serif;
+  font-size: 15px;
+}
+
+nav a {
+  color: #555;
+  text-decoration: none;
+  margin-right: 18px;
+}
+
+nav a:hover,
+nav a.active {
+  color: #222;
+  text-decoration: underline;
+}
+
+/* ── section headings ── */
+h2 {
+  font-family: Georgia, serif;
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #888;
+  margin: 40px 0 18px;
+}
+
+/* ── body text ── */
+p {
+  font-size: 15.5px;
+  margin-bottom: 14px;
+  color: #222;
+}
+
+a {
+  color: #5a7a6a;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ── divider ── */
+hr {
+  border: none;
+  border-top: 1px solid #e0e0e0;
+  margin: 36px 0;
+}
+
+/* ── updates list ── */
+.updates {
+  margin-top: 0;
+}
+
+.update-item {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 20px;
+  align-items: baseline;
+}
+
+.update-date {
+  font-size: 13px;
+  color: #888;
+  min-width: 60px;
+  flex-shrink: 0;
+  padding-top: 2px;
+}
+
+.update-text {
+  font-size: 15px;
+  line-height: 1.65;
+  color: #222;
+}
+
+.update-text em {
+  font-style: italic;
+}
+
+.update-text .award-note {
+  font-size: 13px;
+  color: #5a7a6a;
+  display: block;
+  margin-top: 2px;
+}
+
+/* ── research list ── */
+.pubs {
+  list-style: none;
+}
+
+.pubs li {
+  font-size: 15px;
+  line-height: 1.65;
+  margin-bottom: 20px;
+  padding-left: 0;
+}
+
+.pubs li .note {
+  display: block;
+  font-size: 13.5px;
+  color: #666;
+  margin-top: 3px;
+  font-style: italic;
+}
+
+/* ── contact ── */
+.contact-info p {
+  margin-bottom: 20px;
+}
+
+/* ── footer ── */
+footer {
+  margin-top: 60px;
+  font-size: 13px;
+  color: #aaa;
+}
