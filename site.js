@@ -29,10 +29,22 @@
       text: "Odisha Hyderabad 20 years science physics chemistry University of Hyderabad UoH Bachelor's Linguistics Master's Computational Linguistics EFLU syntax semantics pragmatics modality particles not-at-issue content cricket chess poetry philosophy Twitter X"
     },
     {
+      title: "Thesis",
+      url: "research.html#thesis",
+      summary: "MA thesis on causal architecture, actuality and negation in Hindi-Urdu modality.",
+      text: "thesis Causal Architecture Actuality Negation Hindi Urdu Modality sak paana causal premise semantics event relativity projection",
+    },
+    {
       title: "Presentations and Posters",
       url: "research.html#presentations",
       summary: "SCONLI-15, ICOLSI-47, YRCL-4, DiPSAL, SCONLI-16 and FASAL-16.",
       text: "presentations posters January 2025 November 2025 December 2025 January 2026 April 2026 Definiteness Maximality Odia jaka taka motion events Talmian Post-Talmian cognition Hele Information Structure focus particle Hindi Unconditionals Scalar-Correlative Strategy Best Poster Award Scalar Additive Madhya"
+    },
+    {
+      title: "Scalar vs. Additive in Odia",
+      url: "research.html#presentations",
+      summary: "FASAL-16 paper on Hele and Madhya in Odia.",
+      text: "Scalar Additive Hele Madhya Odia FASAL-16 University of South Carolina April 2026",
     },
     {
       title: "Word Sense Disambiguation in Odia",
